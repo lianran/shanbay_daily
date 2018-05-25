@@ -1,0 +1,5 @@
+*.ipynb_*
+
+*data
+*.xls
+*.ipynb
